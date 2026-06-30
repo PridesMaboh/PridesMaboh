@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Prides Maboh</h2>
 
-**IT Support Analyst | 1st & 2nd Line | CompTIA A+ · N+ · Sec+ | AZ-900 | ITIL 4 | Active Directory | Microsoft 365**
+**IT Support Analyst | 1st & 2nd Line | CompTIA A+ · N+ · Sec+ | AZ-900 | ITIL v5 | Active Directory | Microsoft 365**
 
 📍 Ashford, Kent, UK &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Open to UK Visa Sponsorship
 
@@ -13,7 +13,7 @@
 | CompTIA A+ | CompTIA | ✅ Certified |
 | CompTIA Network+ | CompTIA | ✅ Certified |
 | CompTIA Security+ (SY0-701) | CompTIA | ✅ Certified |
-| ITIL 4 Foundation | PeopleCert | ✅ Certified |
+| ITIL Foundation Version 5 | PeopleCert | ✅ Certified |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
 | Power Platform Fundamentals (PL-900) | Microsoft | ✅ Certified |
 
