@@ -43,7 +43,7 @@ I spent 7+ years in IT support in Cameroon: running an Active Directory domain o
 | Repository | What it is | Status |
 |---|---|---|
 | [🖥️ it-support-portfolio](https://github.com/PridesMaboh/it-support-portfolio) | Intune and Autopilot lab, PowerShell support scripts, Entra ID Conditional Access design | In progress: Hyper-V VM built, Autopilot registration next |
-| [📊 student-performance-analysis](https://github.com/PridesMaboh/student-performance-analysis) | Cleaning and analysing a 77-record student dataset across Excel, SQL, Python, R and Power BI | Complete |
+| [📊 student-performance-analysis](https://github.com/PridesMaboh/student-performance-analysis) | Cleaning and analysing a 77-record student dataset across Excel, Python, R and Power BI | Complete |
 
 ---
 
