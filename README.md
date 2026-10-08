@@ -1,48 +1,49 @@
 <h2>👋 Hi, I'm Prides Maboh</h2>
 
-**IT Support Analyst | 1st & 2nd Line | CompTIA A+ · N+ · Sec+ | AZ-900 | ITIL v5 | Active Directory | Microsoft 365**
+**IT Support Analyst | 1st & 2nd Line | CompTIA A+ · Network+ · Security+ | ITIL v5 | AZ-900 | Active Directory | Microsoft 365**
 
-📍 Ashford, Kent, UK &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Open to UK Visa Sponsorship
+📍 Ashford, Kent, UK, open to relocation &nbsp;&nbsp;|&nbsp;&nbsp; 🛂 Skilled Worker visa holder, seeking a sponsored IT role
+
+I spent 7+ years in IT support in Cameroon: running an Active Directory domain on Windows Server 2012, managing Group Policy, troubleshooting DNS and DHCP, building and configuring staff devices, and acting as the in-house first and second line contact for Microsoft 365. I am now building the cloud-managed side of that skill set (Intune, Autopilot and Entra ID) in a home lab, and documenting it here as I go.
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| CompTIA A+ | CompTIA | ✅ Certified |
-| CompTIA Network+ | CompTIA | ✅ Certified |
-| CompTIA Security+ (SY0-701) | CompTIA | ✅ Certified |
-| ITIL Foundation Version 5 | PeopleCert | ✅ Certified |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
-| Power Platform Fundamentals (PL-900) | Microsoft | ✅ Certified |
+| Certification | Issuer |
+|---|---|
+| CompTIA A+ | CompTIA |
+| CompTIA Network+ | CompTIA |
+| CompTIA Security+ (SY0-701) | CompTIA |
+| CompTIA IT Operations Specialist (CIOS) | CompTIA |
+| CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA |
+| ITIL Foundation Version 5 | PeopleCert |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| Microsoft Power Platform Fundamentals (PL-900) | Microsoft |
 
-🔗 [View all badges on Credly](https://www.credly.com/users/prides-tumasang-fru-maboh)
-
----
-
-## 🛠️ Technical Skills
-
-**Endpoint & Identity Management**
-`Microsoft Intune` `Autopilot` `Entra ID (Azure AD)` `Conditional Access` `MFA`
-
-**Support & Operations**
-`Active Directory` `Group Policy` `Windows 10/11` `Microsoft 365` `Remote Support` `Incident Management`
-
-**Scripting & Automation**
-`PowerShell` `Bash` `Task Automation`
-
-**Cloud & Infrastructure**
-`Azure Fundamentals` `ITIL-aligned Service Desk` `Hardware Troubleshooting` `User Onboarding`
+🔗 [Verify my badges on Credly](https://www.credly.com/users/prides-tumasang-fru-maboh)
 
 ---
 
-## 📂 Portfolio Projects
+## 🛠️ Skills
 
-| Repository | Description | Tech |
+**Used in my IT roles**
+`Active Directory` `Group Policy` `Windows Server 2012` `Windows 10/11` `DNS & DHCP` `Network cabling & diagrams` `Device provisioning` `Microsoft 365 user support` `Hardware troubleshooting` `Asset management`
+
+**Building now in my lab**
+`Hyper-V` `Microsoft Intune` `Windows Autopilot` `Entra ID` `Conditional Access` `PowerShell`
+
+**Data and reporting**
+`Excel` `SQL` `Python (pandas)` `R` `Power BI`
+
+---
+
+## 📂 Projects
+
+| Repository | What it is | Status |
 |---|---|---|
-| [🖥️ it-support-portfolio](https://github.com/PridesMaboh/it-support-portfolio) | Hands-on labs: Intune/Autopilot, PowerShell scripting, Entra ID Conditional Access + MFA | PowerShell, Intune |
-| [📊 student-performance-analysis](https://github.com/PridesMaboh/student-performance-analysis) | Data Analysis Portfolio – Python, R & Power BI | Python, R, Power BI |
+| [🖥️ it-support-portfolio](https://github.com/PridesMaboh/it-support-portfolio) | Intune and Autopilot lab, PowerShell support scripts, Entra ID Conditional Access design | In progress: Hyper-V VM built, Autopilot registration next |
+| [📊 student-performance-analysis](https://github.com/PridesMaboh/student-performance-analysis) | Cleaning and analysing a 77-record student dataset across Excel, SQL, Python, R and Power BI | Complete |
 
 ---
 
@@ -50,5 +51,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prides%20Maboh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/prides-tumasang-fru-maboh/)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat&logo=credly)](https://www.credly.com/users/prides-tumasang-fru-maboh)
+[![Email](https://img.shields.io/badge/Email-fruprides%40outlook.com-0078D4?style=flat&logo=microsoftoutlook)](mailto:fruprides@outlook.com)
 
-> 💼 **Actively seeking sponsored 1st/2nd Line IT Support, Service Desk Analyst, and IT Operations Technician roles across the UK (On-site, Hybrid, or Remote).**
+> 💼 **Looking for 1st/2nd Line IT Support, Service Desk and Desktop Support roles anywhere in the UK (on-site, hybrid or remote).**
